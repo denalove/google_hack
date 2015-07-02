@@ -1,0 +1,71 @@
+.sub-titles {
+  margin: 0 2em
+  
+}
+
+ 
+html, body {
+	background-color: #fff;
+	font-family: Helvetica, sans-serif;
+	margin: 0;
+	 
+}
+.header img {
+  padding: 0 0 0 1em;
+}
+
+.header .navbar-form {
+  
+}
+
+ 
+.header {
+	padding-top: 10px;
+	background-color: #F1F1F1;
+	height: 80px;
+   width: 100%;
+  margin: 0;
+}
+ 
+.header img {
+	width: 95px;
+	height: auto;
+	text-align: left;
+}
+.results {
+ width: 75%;
+  padding: 1em;
+}
+.subtitles {
+	
+}
+ 
+.title {
+  color: blue;
+  font-size: 1.2em;
+  margin: 10px 0 0 0;
+}
+.main_link a{
+  color: green;
+  text-decoration: none;
+    
+}
+ 
+.links {
+  color: blue;
+}
+ 
+.navbar-form {
+	display: inline;
+}
+ 
+.footer {
+	background-color: #F1F1F1;
+	height: 80px;
+}
+ 
+.footer li {
+	display: inline;
+	padding: 10px;
+	color: #777777;
+}
