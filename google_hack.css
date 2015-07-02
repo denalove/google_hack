@@ -69,3 +69,22 @@ html, body {
 	padding: 10px;
 	color: #777777;
 }
+
+.other_searches {
+  
+  font-size: 12pt;
+  width: 10ems;
+}
+.other_results li{ 
+  display: inline;
+ list-style-type: none;
+  font-style: bold;
+  font-size: 12pt;
+  height: 15px;
+
+ .other_searches {
+  
+  font-size: 12pt;
+  width: 10ems;
+}
+
